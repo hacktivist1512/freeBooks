@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/freeBooks/static/css/main.6ef52676.chunk.css",
+    "main.js": "/freeBooks/static/js/main.4a6421a3.chunk.js",
+    "main.js.map": "/freeBooks/static/js/main.4a6421a3.chunk.js.map",
+    "runtime-main.js": "/freeBooks/static/js/runtime-main.94ea4a77.js",
+    "runtime-main.js.map": "/freeBooks/static/js/runtime-main.94ea4a77.js.map",
+    "static/js/2.20f777a0.chunk.js": "/freeBooks/static/js/2.20f777a0.chunk.js",
+    "static/js/2.20f777a0.chunk.js.map": "/freeBooks/static/js/2.20f777a0.chunk.js.map",
+    "index.html": "/freeBooks/index.html",
+    "precache-manifest.adf2aa2c99893f675c2fcb74c39b41ae.js": "/freeBooks/precache-manifest.adf2aa2c99893f675c2fcb74c39b41ae.js",
+    "service-worker.js": "/freeBooks/service-worker.js",
+    "static/css/main.6ef52676.chunk.css.map": "/freeBooks/static/css/main.6ef52676.chunk.css.map",
+    "static/js/2.20f777a0.chunk.js.LICENSE.txt": "/freeBooks/static/js/2.20f777a0.chunk.js.LICENSE.txt",
+    "static/media/cover (1).jpg": "/freeBooks/static/media/cover (1).2fba79a0.jpg",
+    "static/media/cover (2).jpg": "/freeBooks/static/media/cover (2).f184e234.jpg",
+    "static/media/cover (3).jpg": "/freeBooks/static/media/cover (3).6d7cf1ba.jpg",
+    "static/media/cover (4).jpg": "/freeBooks/static/media/cover (4).a57b6bf3.jpg",
+    "static/media/cover (5).jpg": "/freeBooks/static/media/cover (5).e4585add.jpg",
+    "static/media/cover.jpg": "/freeBooks/static/media/cover.24ec3af8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94ea4a77.js",
+    "static/js/2.20f777a0.chunk.js",
+    "static/css/main.6ef52676.chunk.css",
+    "static/js/main.4a6421a3.chunk.js"
+  ]
+}
